@@ -110,7 +110,6 @@ function showData(data){
     }
 }
 
-
 //delete All
 function deleteAll(){
     localStorage.clear();
